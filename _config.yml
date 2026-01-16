@@ -33,8 +33,10 @@ github_username: deangelling
 
 
 # Build settings
-theme: jekyll-whiteglass
+remote_theme: yous/jekyll-whiteglass
 plugins:
+plugins:
+  - jekyll-remote-theme
   - jekyll-feed
   - jekyll-archives
   - jekyll-paginate
