@@ -33,7 +33,7 @@ github_username: deangelling
 
 
 # Build settings
-remote_theme: yusuke/whiteglass@v1.3.0
+remote_theme: yous/whiteglass
 
 plugins:
 plugins:
